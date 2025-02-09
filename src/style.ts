@@ -5,6 +5,7 @@ const EstiloGlobal = createGlobalStyle`
   margin: 0;
   padding: 0;
   font-family: "Inter", serif;
+  list-style-type: none;
  }
  body{
   padding-top: 80px;
@@ -30,3 +31,4 @@ export const Container =  styled.div`
   max-width: 100%;
  }
 `
+
