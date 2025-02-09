@@ -1,0 +1,12 @@
+import React from "react";
+import Titulo from "../../components/Titulo";
+
+
+const Projetos = () => (
+  <section>
+    <Titulo fontSize={16}>projetos</Titulo>
+  </section>
+)
+
+
+export default Projetos;
